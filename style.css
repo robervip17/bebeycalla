@@ -259,8 +259,8 @@ nav ul {
       .header-text {
         text-align: right;
         font-family: 'apple' !important;
-        color: antiquewhite;
-        font-size: 14px; 
+        color: #FFFFFF;
+        font-size: 12px; 
         text-align: center;
         width: 100%;
       }
@@ -357,7 +357,7 @@ nav ul {
         text-align: right;
         font-family: 'apple' !important;
         color: antiquewhite;
-        font-size: 36px; 
+        font-size: 35px; 
         text-align: center;
         width: 100%;
       }
