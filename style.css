@@ -176,7 +176,7 @@ nav ul {
   
   
   /* Estilos para pantallas móviles */
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 767px) {
     header {
         font-family: 'heavitas';
         display: flex;
@@ -260,10 +260,12 @@ nav ul {
         text-align: right;
         font-family: 'apple' !important;
         color: #FFFFFF;
-        font-size: 12px; 
+        font-size: 13px; 
         text-align: center;
         width: 100%;
       }
+
+      
     
   }
   
@@ -321,7 +323,7 @@ nav ul {
       }
       
       .logorvp img {
-        max-width: 100px;
+        max-width: 250px;
         height: auto;
       }
       
@@ -333,13 +335,13 @@ nav ul {
         font-family: 'apple';
         font-size: 20px;
         margin-bottom: 5%;
-        font-size: 16px;
+        font-size: 40px;
         padding: 16px;  
         
       }
 
       .linkedin{
-        margin-top: 1%;
+        margin-top: 2%;
         width: 15%;
       }
     
@@ -360,6 +362,10 @@ nav ul {
         font-size: 35px; 
         text-align: center;
         width: 100%;
+      }
+
+      .apple{
+        font-size: 35px;
       }
     
   }
